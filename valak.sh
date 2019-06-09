@@ -80,7 +80,7 @@ clear
 echo $cy" Tunggu..."
 sleep 2
 clear
-git clone https://githun.com/val4kghost/VAL4K.git
+git clone https://github.com/val4kghost/VAL4K.git
 cd VAL4K $y
 python2 VAL4K.py $y
 fi
@@ -109,7 +109,7 @@ pkg install mechanize $y
 pip2 install mechanize $y
 pkg install requests $y
 pkg install git $y
-git clone https://githun.com/val4kghost/VAL4K.git
+git clone https://github.com/val4kghost/VAL4K.git
 cd VAL4K $y
 python2 VAL4K.py $y
 fi
